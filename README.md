@@ -1,3 +1,9 @@
+This project presents a data-driven analysis of the 2026 Tamil Nadu Assembly Election, with comparisons against the 2021 election to understand regional seat redistribution, constituency-level flips, and vote-share realignment.
+![Tamil Nadu Election Analysis 2026 dashboard landing page](DATASETS/DASHBOARD.png)
+
+
+
+
 # Decoding the 2026 Tamil Nadu Assembly Election
 
 **Codebasics Resume Project Challenge** · Data Analytics · May 2026
