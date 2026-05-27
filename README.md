@@ -6,6 +6,8 @@ This project presents a data-driven analysis of the 2026 Tamil Nadu Assembly Ele
 
 
 ![Tamil Nadu Election Analysis 2026 dashboard landing page](DATASETS/DASHBOARD.png)
+## 🔗 Live Dashboard
+👉 [View Live Dashboard](https://tn-election-2026-scazkhofytxkx78hcbh2gk.streamlit.app/)
 
 
 
