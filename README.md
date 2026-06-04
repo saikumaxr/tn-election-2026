@@ -9,8 +9,6 @@ This project presents a data-driven analysis of the 2026 Tamil Nadu Assembly Ele
 ## 🔗 Live Dashboard
 👉 [View Live Dashboard](https://tn-election-2026-scazkhofytxkx78hcbh2gk.streamlit.app/)
 
-## Notebook Viewer
-View the notebook here: https://nbviewer.org/github/saikumaxr/tn-election-2026/blob/main/tn_election_analysis%20%282%29.ipynb
 
 **Codebasics Resume Project Challenge** · Data Analytics · May 2026
 
