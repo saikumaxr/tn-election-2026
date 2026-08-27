@@ -6,9 +6,8 @@ This project presents a data-driven analysis of the 2026 Tamil Nadu Assembly Ele
 
 
 ![Tamil Nadu Election Analysis 2026 dashboard landing page](DATASETS/DASHBOARD.png)
-## 🔗 Live Dashboard
-👉 [View Live Dashboard](https://tn-election-2026-scazkhofytxkx78hcbh2gk.streamlit.app/)
-
+## 🔗 Dashboard
+Built as a 3-page interactive Power BI report — Flip Story, Vote Share Story, Margin Story — using DAX measures for margin, vote-share, and win-percentage calculations.
 
 **Codebasics Resume Project Challenge** · Data Analytics · May 2026
 
@@ -40,6 +39,7 @@ The average winning margin fell from 22,871 votes in 2021 to 16,784 in 2026 — 
 ├── tn_2026_results.csv          # 4,257 rows · Election Commission of India
 ├── constituency_master.csv      # 234 constituencies · regions, districts, reservation
 └── README.md
+├── tn_elections.pbix            # Power BI dashboard — 3 pages
 ```
 
 ---
@@ -49,7 +49,8 @@ The average winning margin fell from 22,871 votes in 2021 to 16,784 in 2026 — 
 1. Open `tn_election_analysis.ipynb` in [Google Colab](https://colab.research.google.com)
 2. Upload the three CSV files using the Files panel on the left
 3. Run all cells top to bottom — no additional installs needed
-
+4.### Dashboard
+Open `tn_elections.pbix` in Power BI Desktop. All visuals and DAX measures are self-contained — no external data connections required.
 Everything is self-contained. The notebook produces all charts used in the deck.
 
 ---
