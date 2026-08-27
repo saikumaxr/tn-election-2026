@@ -8,6 +8,9 @@ This project presents a data-driven analysis of the 2026 Tamil Nadu Assembly Ele
 
 ## 🔗 Dashboard
 Built as a 3-page interactive Power BI report — Flip Story, Vote Share Story, Margin Story — using DAX measures for margin, vote-share, and win-percentage calculations.
+
+<img width="1301" height="721" alt="image" src="https://github.com/user-attachments/assets/9c668819-612d-475f-9288-ec18f75be74e" />
+
 ![Flip Story](flip_story.png)
 
 ![Vote Share Story](vote_share_story.png)
