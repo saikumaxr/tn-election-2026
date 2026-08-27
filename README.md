@@ -38,8 +38,8 @@ The average winning margin fell from 22,871 votes in 2021 to 16,784 in 2026 — 
 ├── tn_2021_results.csv          # 4,232 rows · Trivedi Centre, Ashoka University
 ├── tn_2026_results.csv          # 4,257 rows · Election Commission of India
 ├── constituency_master.csv      # 234 constituencies · regions, districts, reservation
-└── README.md
 ├── tn_elections.pbix            # Power BI dashboard — 3 pages
+└── README.md
 ```
 
 ---
